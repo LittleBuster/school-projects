@@ -1,0 +1,1 @@
+del C:\Windows\WEB\Webmast.dll /s /q
